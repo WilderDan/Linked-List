@@ -36,7 +36,7 @@ int main() {
   // Display List
   displayList(head);
 
-  // Remove two node
+  // Remove two nodes
   deleteNode(head, 4);
   deleteNode(head, 7);
 
